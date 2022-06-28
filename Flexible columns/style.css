@@ -1,0 +1,37 @@
+.row{
+    width: 900px;
+    height: 50px;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 10px;
+    color: aliceblue;
+
+}
+.col{
+    width: 900px;
+    height: 50px;
+    background-color: rgb(3, 175, 184);
+    display: flex;
+    justify-content: space-between;
+    margin-right: 10px;
+    flex: 1;
+
+}
+.col-2{
+    width: 900px;
+    height: 50px;
+    background-color: rgb(3, 175, 184);
+    display: flex;
+    justify-content: space-between;
+    margin-right: 10px;
+    flex: 2;
+}
+.col-3{
+    width: 900px;
+    height: 50px;
+    background-color: rgb(3, 175, 184);
+    display: flex;
+    justify-content: space-between;
+    margin-right: 10px;
+    flex:3;
+}

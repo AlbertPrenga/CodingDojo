@@ -1,0 +1,188 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+.container{
+    padding: 50px 150px;
+}
+.button1{
+    height: 44px;
+    width: 70px;
+    padding: 0;
+    margin: -2px;
+    background-color: rgb(223, 223, 223);
+    border-color: whitesmoke;
+    border-bottom-style: none;
+    border-top-style: none;
+    
+    
+ 
+}
+#coffe{
+    height: 47px;
+    width: 68px;
+    border-radius: 5px 0px 0px 5px;
+    margin-bottom: 2px;
+    margin-right: 2px;
+    
+   
+}
+.flex{
+    display: flex;
+}
+.justify-space{
+    justify-content: space-between;
+}
+.align{
+    align-items: center;
+}
+.list-style{
+    list-style: none;
+}
+.nav2{
+    width: 100px;
+    height: 25px;
+    margin-top: 7px;
+  
+}
+#search{
+    border-radius: 10px 0px 0px 10px;
+    border-color: beige;
+}
+nav{
+    border: solid rgb(160, 160, 160) 1px;
+   padding-top: 1px;
+    padding-right: 150px;
+    width: 860px;
+    height: 45px;
+    background-color: rgb(223, 223, 223);
+    border-radius: 5px;
+}
+#main-image{
+    width: 1010px;
+    height: 500px;
+}
+main{
+    margin-top: 20px;
+}
+.lista{
+    background-color: rgb(67, 67, 67);
+    width: 700px;
+    height: 50px;
+    justify-content: space-between;
+    padding-left: 10px;
+    padding-right: 300px;
+    color: rgb(22, 161, 221);
+    margin-top: -5px;
+    align-items: center;
+    border-radius: 0px 0px 5px 5px;
+}
+a {
+    color:rgb(22, 161, 221);
+    text-decoration: none;
+}
+#white-link{
+    color: white;
+}
+.middle-top{
+    border: solid gainsboro 1px;
+    width: 890px;
+    height: 100px;
+    align-items: center;
+    padding-left: 60px;
+    padding-right: 60px;
+}
+.big-button{
+    height: 40px;
+    width: 180px;
+    text-align: center;
+    align-items: center;
+    background-color:rgb(5, 163, 195);
+    color: white;
+    padding-left: 5px;
+    padding-right: 5px;
+    border: none;
+    border-radius: 5px;
+    
+}
+.big-button1{
+    height: 40px;
+    width: 245px;
+    text-align: center;
+    align-items: center;
+    background-color:rgb(5, 163, 195);
+    color: white;
+    padding-left: 5px;
+    padding-right: 5px;
+    border: none;
+    border-radius: 5px;
+}
+.middle{
+    margin-top: 20px;
+}
+.text{
+    font-size: xx-large;
+    color:rgb(160, 160, 160) ;
+}
+.column{
+    flex-direction: column;
+}
+h3{
+    padding-left: 10px;
+    align-items: center;
+}
+#span{
+    width: 30px;
+    height: 30px;
+
+}
+.blocks{
+    width: 990px;
+    height: 350px;
+    padding: 10px;
+    border: solid 1px rgb(160, 160, 160) ;
+}
+.advertisment{
+    border 1px solid rgb(160, 160, 160) ;
+    width: 244px;
+    height: 185px;
+}
+h6{
+    border: 1px solid rgb(160, 160, 160);
+    width: 1010px;
+    height: 40px;
+}
+h5{
+    
+    border-right:2px solid rgb(235, 232, 232) ;
+    height: 220px;
+    margin-top: 60px;
+
+    align-items: center;
+    justify-content: center;
+}
+
+.bottom{
+    width: 1010px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-bottom: solid 1px rgb(160, 160, 160);
+    padding-bottom: 30px;
+}
+h4{
+    border-bottom: 1px solid rgb(160, 160, 160);
+    width: 50px;
+}
+footer{
+    width: 600px;
+    height: 50px;
+    padding-right: 500px;
+}
+.shkrim-i-bardhe{
+    color: white;
+}
+.pictures{
+    height: 184px;
+    width: 244px;
+
+}

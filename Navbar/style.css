@@ -1,0 +1,39 @@
+.nav{
+    width: 950px;
+    height: 80px;
+     background-color: rgba(0, 0, 0, 0.723);
+     display: flex;
+     justify-content: space-between;
+     align-items: center;
+     color: whitesmoke;
+     padding: 1px 30px;
+     font-family: 'Times New Roman', Times, serif;
+}
+
+.nav-links{
+    display: flex;
+    flex-direction: row;
+    padding: 0px 20px;
+    justify-content: space-between 30px;
+    color: rgba(0, 0, 0, 0.723);
+    font-size: medium;
+    font-weight: 200;
+    text-decoration: none;
+
+    
+}
+
+.btn{
+background-color: rgb(15, 240, 240);
+color: white;
+border: 3px solid black;
+font-size: medium;
+box-shadow: 10px 5px 5px black;
+padding: 0px 10px;
+
+}
+
+.active{
+    padding: 0px 17px;
+    color: white;
+}

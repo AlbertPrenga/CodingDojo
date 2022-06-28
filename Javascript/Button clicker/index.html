@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    
+    <script src="/script.js"></script>
+    <title>Dojonary</title>
+   
+</head>
+<body>
+    <div class="container justify-space">
+        <nav class="flex justify-space align">
+          <h1>Dojonary</h1>
+          <input type="text" placeholder ="Search" id="search">
+          <button type="submit"   onclick="replace(this)" class="button1 border-shadow">Login</button>
+          
+        </nav>
+        <main class="flex justify-space">
+            <div class="first-main border flex justify-space">
+                <div class="ninja flex direction justify-space">
+                    <h1>ninja</h1>
+                    <h4>noun</h4>
+                    <p>Plural:ninjas</p>
+                    <button onclick="alert('Ninja was liked')" class="button2 border-shadow">13 likes</button>
+                </div >
+                <p class="description">A practitioner skilled in the <br>
+                    <a href="#">Japanese</a> art of <a href="#">ninjitsu</a>
+                    </p>   
+            </div>
+            <div class="second-main border2 flex direction">
+               <h2>Dojonary is</h2>
+               <p>defined by  <strong>You</strong></p> 
+               <button onclick="hide(this)" class="button3 border-shadow">Add definition</button>
+            </div>
+
+        </main>
+        <footer class=" border flex justify-space">
+            <div class="ninja flex direction justify-space">
+                <h1>ninja</h1>
+                <h4>noun</h4>
+                <p>Plural:ninjas</p>
+                <button onmouseover="over(this)" onmouseout="out(this)" class="button2 border-shadow">37 likes</button>       
+            </div>
+            <p class="description">A <a href="#">programmer</a> who breaks <br>
+                 down problems with <a href="#">zen</a>-like <br>
+                 focus
+            </p>
+        </footer>
+
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>

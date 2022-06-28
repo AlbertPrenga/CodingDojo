@@ -1,0 +1,70 @@
+.flex{
+    display:flex;
+}
+.column{
+    flex-direction: column;
+}
+.justify-space{
+    justify-content: space-between;
+}
+.align{
+    align-items: center;
+
+}
+#firstNav{
+    background-color: black;
+    color: white;
+    width: 1000px;
+    height: 50px;
+    padding-top: 10px;
+    padding-bottom: -15px;
+    padding-left: 15px;
+    margin-bottom: 30px;
+}
+#secondNav{
+    color: black;
+    border-bottom: solid black 3px;
+    width: 1015px;
+    text-align: center;
+    margin-top: 20px;
+    
+}
+.main{
+    width: 1000px;
+
+}
+.firstMain{
+    border: solid black 1px;
+    width: 200px;
+    height: 200px;
+    align-items: center;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    margin-left: 50px;
+    justify-content: space-around;
+
+}
+.secondMain{
+    margin-right: 50px;
+    height: 600px;
+}
+img{
+    height: 100px;
+    width: 100px;
+    border-radius: 100px;
+}
+.Neil{
+    width: 470px;
+    height: 150px;
+    border: black solid 1px;
+    padding: 10px;
+}
+.button{
+    background-color: yellow;
+    color:black;
+    width: 80px;
+    height: 35px;
+    box-shadow: 5px 5px 5px 1px black;
+    margin: 10px;
+}

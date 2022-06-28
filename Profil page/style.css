@@ -1,0 +1,148 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.color{
+    background-color:rgba(12, 158, 195, 0.921) ;
+    width: 506px;
+    height: 80px;
+    
+}
+.data{
+
+    width: 500px;
+    height: 190px;
+    border: 3px solid rgb(184, 183, 183);
+    border-top:none;
+
+}
+.subconteiner{
+    display: flex;
+    flex-direction: column;
+
+}
+.border{
+    border-radius: 80%;
+    border: 2px black solid;
+    position: absolute;
+    margin-left: 30px;
+    margin-top: 42px;
+}
+p {
+    margin-left: 30px;
+}
+
+h1{
+    margin-left: 30px;
+    margin-top: 40px;
+}
+a{
+    margin-left: 30px;
+}
+.black-border{
+    background-color: black;
+    width: 488px;
+    height: 30px;
+    color: white;
+    margin-left: 0px;
+    margin-top: 20px;
+    padding-top: 20px;
+    padding-left: 20px;    
+ 
+}
+.black-border2{
+    background-color: black;
+    width: 261px;
+    height: 30px;
+    color: white;
+    margin-left: 0px;
+    margin-top: 20px;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-bottom: 20px;    
+ 
+}
+.button{
+    color: black;
+    border-radius: 80px;
+    width: 35px;
+    height: 30px;
+    background-color: gray;
+}
+.details{
+    border: solid 3px rgb(184, 183, 183);
+    border-bottom: none;
+    width: 490px;
+    height: 100px;
+    padding-left: 12px;
+    
+    
+}
+.details2{
+    border: solid 3px rgb(184, 183, 183);
+    width: 264px;
+    height: 80px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    background-position: left,right;
+    padding-left: 12px;
+    flex-wrap: wrap;
+}
+.details3{
+    height: 135px;
+}
+.details4{
+    border: solid 3px rgb(184, 183, 183);
+    height: 30px;
+    width:264;
+    border-top: none;
+    margin-bottom: 30px;
+}
+
+.personal{
+    display: flex;
+    flex-direction: column;
+    padding: 10px; 
+    margin-top: 20px;
+}
+.conections{
+    display: flex;
+    flex-direction: column;
+    padding: 10px; 
+}
+.nav{
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 10px 340px 10px 180px;
+}
+
+#signout{
+    background-color:rgba(12, 158, 195, 0.921);
+    color: white;
+    width: 100px;
+    height: 30px;
+    
+}
+
+.main{
+    display: flex;
+    margin-left: 275px;
+}
+.conteiner{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+}
+.img{
+    border: solid black 2px;
+    border-radius: 75px;
+}
+.grey{
+    color: gray;
+}
