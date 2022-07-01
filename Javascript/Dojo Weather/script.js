@@ -12,35 +12,22 @@ document.querySelector("footer").remove();
 
 var number = document.querySelector(".number")
 
-function color(){
-    if(number < 20)
-    
-    number.color = "blue";
- else( number.color = "red");
 
- console.log(number);
- color(number);
+var celcius = document.querySelectorAll(".temp");
+function calculate(element){
 
+if (element.value == "f"){
+for(var i = 0; i < celcius.length; i++){
+ console.log(celcius[i].innerText);
+ celcius[i].innerText = parseInt((celcius[i].innerText) * 33.8);
+}}
+else{
+    for(var i = 0; i < celcius.length; i++){
+        console.log(celcius[i].innerText);
+        celcius[i].innerText = parseInt(celcius[i].innerText / 33.8);
+       }
+}
 }
 
 
-var celcius = document.querySelectorAll(".number")
-var Fahrenheit = celcius * 33.8;
-function calculate(){
-    
-    var select = document.getElementById('language');
-    var value = select.options[select.selectedIndex].value;
 
-    if (value = 'c'){
-        changeToCelcius()
-    }
-    else if (selectValue = 'f'){
-        changeToFarenheit()
-    }
-   
-  
-    
-}
-
-var Fahrenheit = celcius * 33.8; 
-   console.log(Fahrenheit);

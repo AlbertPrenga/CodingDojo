@@ -73,3 +73,13 @@ button{
     margin: 50px 30px 0px 0px;
     
 }
+span{
+    margin-top: 10px;
+    margin-left: -109px;
+}
+.red{
+    color: red;
+}
+.blue{
+    color: rgb(0, 149, 255);
+}

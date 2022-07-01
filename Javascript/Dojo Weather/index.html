@@ -17,7 +17,7 @@
         <div class="secondNav flex justify-space">
             <h1>San Jose</h1>
             <p>show temperature in </p>
-            <select name="language" aria-label="Select Temp" id="language">
+            <select onchange="calculate(this)" name="language" aria-label="Select Temp" id="language">
                 <option value="c">°C</option>
                 <option value="f">°F</option>
             </select>
@@ -28,25 +28,25 @@
             <li>Today</li>
             <li ><img class="img" src="assets\some_rain.png" alt="" ></li>
             <li>Some rain</li>
-            <li class="number flex justify-space"><p>24°</p><p>18°</p></li>
+            <li class="number flex justify-space"><p class="temp red ">24</p><span class="red">°</span><p class="temp blue">18</p><span class="blue">°</span></li>
         </ul>
         <ul class="list-style column justify-space align">
             <li>Tomorrow</li>
             <li ><img class="img" src="assets\some_sun.png" alt=""></li>
             <li>some sun</li>
-            <li class="number flex justify-space"><p>27°</p><p>19°</p></li>
+            <li class="number flex justify-space"><p class="temp red">27</p> <span class="red">°</span><p class="temp blue">19</p> <span class="blue">°</span></li>
         </ul>
         <ul class="list-style column justify-space align">
             <li>Friday</li>
             <li ><img class="img" src="assets\some_clouds.png" alt=""></li>
             <li>some clouds</li>
-            <li class="number flex justify-space"><p>21°</p><p>16°</p></li>
+            <li class="number flex justify-space"><p class="temp red">21</p><span class="red">°</span><p class="temp blue">16</p><span class="blue">°</span></li>
         </ul>
         <ul class="list-style column justify-space align">
             <li>Saturday</li>
             <li ><img class="img" src="assets\some_sun.png" alt=""></li>
             <li>some sun</li>
-            <li class="number flex justify-space" ><p>26°</p><p>21°</p></li>
+            <li class="number flex justify-space" ><p class="temp red">26 </p> <span class="red">°</span><p class="temp blue">21</p><span class="blue">°</span></li>
         </ul>
     </div>
     <footer class="flex justify-space">
