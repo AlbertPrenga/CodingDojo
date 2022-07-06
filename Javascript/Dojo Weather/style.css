@@ -39,6 +39,7 @@ option{
     height: 150px;
     border-radius: 100%;
     margin: 10px 0px;
+    transition: 1s;
 }
 nav{
     width: 1100px;
