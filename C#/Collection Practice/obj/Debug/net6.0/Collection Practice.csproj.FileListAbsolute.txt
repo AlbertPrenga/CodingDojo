@@ -1,0 +1,15 @@
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Collection Practice\bin\Debug\net6.0\Collection Practice.exe
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Collection Practice\bin\Debug\net6.0\Collection Practice.deps.json
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Collection Practice\bin\Debug\net6.0\Collection Practice.runtimeconfig.json
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Collection Practice\bin\Debug\net6.0\Collection Practice.dll
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Collection Practice\bin\Debug\net6.0\ref\Collection Practice.dll
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Collection Practice\bin\Debug\net6.0\Collection Practice.pdb
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Collection Practice\obj\Debug\net6.0\Collection Practice.csproj.AssemblyReference.cache
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Collection Practice\obj\Debug\net6.0\Collection Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Collection Practice\obj\Debug\net6.0\Collection Practice.AssemblyInfoInputs.cache
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Collection Practice\obj\Debug\net6.0\Collection Practice.AssemblyInfo.cs
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Collection Practice\obj\Debug\net6.0\Collection Practice.csproj.CoreCompileInputs.cache
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Collection Practice\obj\Debug\net6.0\Collection Practice.dll
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Collection Practice\obj\Debug\net6.0\ref\Collection Practice.dll
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Collection Practice\obj\Debug\net6.0\Collection Practice.pdb
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Collection Practice\obj\Debug\net6.0\Collection Practice.genruntimeconfig.cache
