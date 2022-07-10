@@ -1,0 +1,15 @@
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Puzzles\bin\Debug\net6.0\Puzzles.exe
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Puzzles\bin\Debug\net6.0\Puzzles.deps.json
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Puzzles\bin\Debug\net6.0\Puzzles.runtimeconfig.json
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Puzzles\bin\Debug\net6.0\Puzzles.dll
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Puzzles\bin\Debug\net6.0\ref\Puzzles.dll
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Puzzles\bin\Debug\net6.0\Puzzles.pdb
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Puzzles\obj\Debug\net6.0\Puzzles.csproj.AssemblyReference.cache
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Puzzles\obj\Debug\net6.0\Puzzles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Puzzles\obj\Debug\net6.0\Puzzles.AssemblyInfoInputs.cache
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Puzzles\obj\Debug\net6.0\Puzzles.AssemblyInfo.cs
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Puzzles\obj\Debug\net6.0\Puzzles.csproj.CoreCompileInputs.cache
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Puzzles\obj\Debug\net6.0\Puzzles.dll
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Puzzles\obj\Debug\net6.0\ref\Puzzles.dll
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Puzzles\obj\Debug\net6.0\Puzzles.pdb
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Puzzles\obj\Debug\net6.0\Puzzles.genruntimeconfig.cache
