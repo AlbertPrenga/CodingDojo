@@ -1,0 +1,15 @@
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Hungry ninja\bin\Debug\net6.0\Hungry ninja.exe
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Hungry ninja\bin\Debug\net6.0\Hungry ninja.deps.json
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Hungry ninja\bin\Debug\net6.0\Hungry ninja.runtimeconfig.json
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Hungry ninja\bin\Debug\net6.0\Hungry ninja.dll
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Hungry ninja\bin\Debug\net6.0\ref\Hungry ninja.dll
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Hungry ninja\bin\Debug\net6.0\Hungry ninja.pdb
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Hungry ninja\obj\Debug\net6.0\Hungry ninja.csproj.AssemblyReference.cache
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Hungry ninja\obj\Debug\net6.0\Hungry ninja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Hungry ninja\obj\Debug\net6.0\Hungry ninja.AssemblyInfoInputs.cache
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Hungry ninja\obj\Debug\net6.0\Hungry ninja.AssemblyInfo.cs
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Hungry ninja\obj\Debug\net6.0\Hungry ninja.csproj.CoreCompileInputs.cache
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Hungry ninja\obj\Debug\net6.0\Hungry ninja.dll
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Hungry ninja\obj\Debug\net6.0\ref\Hungry ninja.dll
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Hungry ninja\obj\Debug\net6.0\Hungry ninja.pdb
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Hungry ninja\obj\Debug\net6.0\Hungry ninja.genruntimeconfig.cache
