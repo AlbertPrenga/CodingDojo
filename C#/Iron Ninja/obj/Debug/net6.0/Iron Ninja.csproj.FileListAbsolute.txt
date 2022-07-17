@@ -1,0 +1,15 @@
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Iron Ninja\obj\Debug\net6.0\Iron Ninja.csproj.AssemblyReference.cache
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Iron Ninja\obj\Debug\net6.0\Iron Ninja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Iron Ninja\obj\Debug\net6.0\Iron Ninja.AssemblyInfoInputs.cache
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Iron Ninja\obj\Debug\net6.0\Iron Ninja.AssemblyInfo.cs
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Iron Ninja\obj\Debug\net6.0\Iron Ninja.csproj.CoreCompileInputs.cache
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Iron Ninja\bin\Debug\net6.0\Iron Ninja.exe
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Iron Ninja\bin\Debug\net6.0\Iron Ninja.deps.json
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Iron Ninja\bin\Debug\net6.0\Iron Ninja.runtimeconfig.json
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Iron Ninja\bin\Debug\net6.0\Iron Ninja.dll
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Iron Ninja\bin\Debug\net6.0\ref\Iron Ninja.dll
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Iron Ninja\bin\Debug\net6.0\Iron Ninja.pdb
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Iron Ninja\obj\Debug\net6.0\Iron Ninja.dll
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Iron Ninja\obj\Debug\net6.0\ref\Iron Ninja.dll
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Iron Ninja\obj\Debug\net6.0\Iron Ninja.pdb
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Iron Ninja\obj\Debug\net6.0\Iron Ninja.genruntimeconfig.cache
