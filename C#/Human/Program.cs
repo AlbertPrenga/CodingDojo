@@ -14,12 +14,12 @@ class Human
 
 
     // Construtor
-     public Human(string name, int str, int intel )
+     public Human(string name)
     {
         Name = name;
-        Strength = str;
-        Intelligence = 5;
-        Dexterity = 5;
+        Strength = 3;
+        Intelligence = 3;
+        Dexterity = 3;
         Health = 100;
     }
     // Add a constructor to assign custom values to all fields
@@ -29,17 +29,17 @@ class Human
         Strength = str;
         Intelligence = intel;
         Dexterity = dex;
-        Health =   Health = hp;
+        Health = hp;
     }
 
      
     // Build Attack method
     public int Attack(Human target)
     {
-        int dmg = Strength * 3;
+        int dmg = Strength * 5;
         target.Health -= dmg;
         Console.WriteLine($"{Name} attacked {target.Name} for {dmg} damage!");
-        Console.WriteLine(target.Health);
+        Console.WriteLine($"Current health of {target.Name} is {target.Health}");
     
         return target.Health;
     }

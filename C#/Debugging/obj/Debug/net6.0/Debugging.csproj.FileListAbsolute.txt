@@ -1,0 +1,15 @@
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Debugging\bin\Debug\net6.0\Debugging.exe
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Debugging\bin\Debug\net6.0\Debugging.deps.json
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Debugging\bin\Debug\net6.0\Debugging.runtimeconfig.json
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Debugging\bin\Debug\net6.0\Debugging.dll
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Debugging\bin\Debug\net6.0\ref\Debugging.dll
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Debugging\bin\Debug\net6.0\Debugging.pdb
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Debugging\obj\Debug\net6.0\Debugging.csproj.AssemblyReference.cache
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Debugging\obj\Debug\net6.0\Debugging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Debugging\obj\Debug\net6.0\Debugging.AssemblyInfoInputs.cache
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Debugging\obj\Debug\net6.0\Debugging.AssemblyInfo.cs
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Debugging\obj\Debug\net6.0\Debugging.csproj.CoreCompileInputs.cache
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Debugging\obj\Debug\net6.0\Debugging.dll
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Debugging\obj\Debug\net6.0\ref\Debugging.dll
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Debugging\obj\Debug\net6.0\Debugging.pdb
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Debugging\obj\Debug\net6.0\Debugging.genruntimeconfig.cache

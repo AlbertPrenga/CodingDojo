@@ -1,0 +1,23 @@
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Razor fun\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Razor fun\bin\Debug\net6.0\appsettings.json
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Razor fun\bin\Debug\net6.0\Razor fun.exe
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Razor fun\bin\Debug\net6.0\Razor fun.deps.json
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Razor fun\bin\Debug\net6.0\Razor fun.runtimeconfig.json
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Razor fun\bin\Debug\net6.0\Razor fun.dll
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Razor fun\bin\Debug\net6.0\ref\Razor fun.dll
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Razor fun\bin\Debug\net6.0\Razor fun.pdb
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Razor fun\obj\Debug\net6.0\Razor fun.csproj.AssemblyReference.cache
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Razor fun\obj\Debug\net6.0\Razor fun.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Razor fun\obj\Debug\net6.0\Razor fun.AssemblyInfoInputs.cache
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Razor fun\obj\Debug\net6.0\Razor fun.AssemblyInfo.cs
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Razor fun\obj\Debug\net6.0\Razor fun.csproj.CoreCompileInputs.cache
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Razor fun\obj\Debug\net6.0\Razor fun.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Razor fun\obj\Debug\net6.0\Razor fun.RazorAssemblyInfo.cache
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Razor fun\obj\Debug\net6.0\Razor fun.RazorAssemblyInfo.cs
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Razor fun\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Razor fun\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Razor fun\obj\Debug\net6.0\scopedcss\bundle\Razor fun.styles.css
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Razor fun\obj\Debug\net6.0\Razor fun.dll
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Razor fun\obj\Debug\net6.0\ref\Razor fun.dll
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Razor fun\obj\Debug\net6.0\Razor fun.pdb
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Razor fun\obj\Debug\net6.0\Razor fun.genruntimeconfig.cache

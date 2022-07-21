@@ -52,10 +52,11 @@ static void LoopArray(int[] numbers)
     // print each value to the console. 
     foreach (int number in numbers)
     {
-        Console.WriteLine(number);
+        Console.WriteLine( number);
     }
 }
 int[] myArray = { 1, 3, 5, 6, 7 };
+
 LoopArray(myArray);
 
 // 5. Find max
@@ -302,7 +303,7 @@ for (int i = 0; i < numbers.Length; i++)
  if (numbers[i] < 0)
     objects[i] = "Dojo";
  
- else
+ else   
     objects[i] = numbers[i];
 
  Console.WriteLine(objects[i]);

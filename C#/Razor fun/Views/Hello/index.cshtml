@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Razor fun</title>
+</head>
+<body>
+    <h1>There are some delicious food!</h1>
+    @{
+        List<string> Fruits = new List<string>();
+            Fruits.Add("Apple Pie");
+            Fruits.Add("Burritos");
+            Fruits.Add("Clams Casino");
+            Fruits.Add("Donuts");
+            @* Sapo krijova listen me fruta *@
+            @* Tani do ti therras nje nga nje *@
+
+            foreach (var item in Fruits)
+            {
+                if (item[0] == 'C')
+                {
+                    <p style="color: red;">@item</p>
+                }
+                else{
+                <p>@item</p>
+                }
+            }
+    }
+</body>
+</html>

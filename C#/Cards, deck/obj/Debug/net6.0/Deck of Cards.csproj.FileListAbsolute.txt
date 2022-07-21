@@ -1,0 +1,15 @@
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Deck of Cards\obj\Debug\net6.0\Deck of Cards.csproj.AssemblyReference.cache
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Deck of Cards\obj\Debug\net6.0\Deck of Cards.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Deck of Cards\obj\Debug\net6.0\Deck of Cards.AssemblyInfoInputs.cache
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Deck of Cards\obj\Debug\net6.0\Deck of Cards.AssemblyInfo.cs
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Deck of Cards\obj\Debug\net6.0\Deck of Cards.csproj.CoreCompileInputs.cache
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Deck of Cards\bin\Debug\net6.0\Deck of Cards.exe
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Deck of Cards\bin\Debug\net6.0\Deck of Cards.deps.json
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Deck of Cards\bin\Debug\net6.0\Deck of Cards.runtimeconfig.json
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Deck of Cards\bin\Debug\net6.0\Deck of Cards.dll
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Deck of Cards\bin\Debug\net6.0\ref\Deck of Cards.dll
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Deck of Cards\bin\Debug\net6.0\Deck of Cards.pdb
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Deck of Cards\obj\Debug\net6.0\Deck of Cards.dll
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Deck of Cards\obj\Debug\net6.0\ref\Deck of Cards.dll
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Deck of Cards\obj\Debug\net6.0\Deck of Cards.pdb
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Deck of Cards\obj\Debug\net6.0\Deck of Cards.genruntimeconfig.cache
