@@ -1,0 +1,23 @@
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Time Display\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Time Display\bin\Debug\net6.0\appsettings.json
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Time Display\bin\Debug\net6.0\Time Display.exe
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Time Display\bin\Debug\net6.0\Time Display.deps.json
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Time Display\bin\Debug\net6.0\Time Display.runtimeconfig.json
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Time Display\bin\Debug\net6.0\Time Display.dll
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Time Display\bin\Debug\net6.0\ref\Time Display.dll
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Time Display\bin\Debug\net6.0\Time Display.pdb
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Time Display\obj\Debug\net6.0\Time Display.csproj.AssemblyReference.cache
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Time Display\obj\Debug\net6.0\Time Display.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Time Display\obj\Debug\net6.0\Time Display.AssemblyInfoInputs.cache
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Time Display\obj\Debug\net6.0\Time Display.AssemblyInfo.cs
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Time Display\obj\Debug\net6.0\Time Display.csproj.CoreCompileInputs.cache
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Time Display\obj\Debug\net6.0\Time Display.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Time Display\obj\Debug\net6.0\Time Display.RazorAssemblyInfo.cache
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Time Display\obj\Debug\net6.0\Time Display.RazorAssemblyInfo.cs
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Time Display\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Time Display\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Time Display\obj\Debug\net6.0\scopedcss\bundle\Time Display.styles.css
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Time Display\obj\Debug\net6.0\Time Display.dll
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Time Display\obj\Debug\net6.0\ref\Time Display.dll
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Time Display\obj\Debug\net6.0\Time Display.pdb
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Time Display\obj\Debug\net6.0\Time Display.genruntimeconfig.cache
