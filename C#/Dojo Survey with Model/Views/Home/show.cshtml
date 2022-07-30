@@ -1,0 +1,27 @@
+@using Dojo_Survey_with_Model.Models
+@model Survey
+<link rel="stylesheet" href="~/css/site.css">
+
+<div class="container">
+    <h1>Submited info</h1>
+
+    <div class="view flex column">
+    <div class="name flex justify-space afro">
+        <p> Name: </p>
+        <p>@Model.Name</p>
+    </div>
+    <div class="loc flex justify-space afro">
+        <p> Dojo Location: </p>
+        <p>@Model.Location</p>
+    </div>
+    <div class="lang flex justify-space afro">
+        <p>Favorite Language: </p>
+        <p>@Model.Language</p>
+    </div>
+    <div class="comm flex justify-space afro">
+        <p>Comment: </p>
+        <p>@Model.Comment</p>
+    </div>
+    </div>
+    <button class="button"><a href="/add">Go back</a></button>
+</div>

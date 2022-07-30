@@ -1,0 +1,32 @@
+<link rel="stylesheet" href="~/css/site.css">
+
+<div class="container">
+<form class="justify-space column flex" action="/Create" method="post">
+
+<div class="name1 flex justify-space">
+<label for="Name">Your Name:</label>
+<input type="text" name="Name">
+</div>
+<div class="language flex justify-space">
+<label for="Language">Favorite Language:</label>
+<select class="biger" name="language" id="">
+    <option value="Python">Python</option>
+    <option value="C#(.net)">C#(.net)</option>
+    <option value="Java">"Java"</option>
+</select>
+</div>
+<div class="location flex justify-space">
+<label for="Location">Dojo Location:</label>
+<select class="biger" name="Location" id="">
+    <option value="Albania">Albania</option>
+    <option value="Germany">Germany</option>
+    <option value="USA">"USA"</option>
+</select>
+</div>
+<div class="comment flex justify-space column">
+<label for="Comment">Your comment(optional):</label>
+<input class="smaller" type="text" name="Comment">
+</div>
+<button class="button" href="show">Submit</button>
+</form>
+</div>

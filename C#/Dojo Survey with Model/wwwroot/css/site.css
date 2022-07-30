@@ -1,0 +1,47 @@
+
+
+body {
+  margin-bottom: 60px;
+}
+.flex{
+  display: flex;
+}
+.justify-space{
+  justify-content: space-between;
+}
+
+
+.column{
+flex-direction: column;
+}
+.container{
+  width: 400px;
+  height: 300px;
+  border: 2px black solid;
+  margin-top: 50px;
+  margin-left: 100px;
+  padding: 20px 20px 10px 5px;
+  
+}
+.smaller{
+  margin-right: 35%;
+  height: 40px;
+  margin-bottom: 10%;
+}
+.biger{
+  width: 43%;
+}
+.button
+{
+  color: white;
+  background-color: rgb(12, 141, 240);
+  margin: 0px 30px 0px 300px;
+  float: right;
+  height: 30px;
+  width: 70px;
+}
+.afro{
+  margin-left: 10px;
+  margin-right: 10px;
+  
+}
