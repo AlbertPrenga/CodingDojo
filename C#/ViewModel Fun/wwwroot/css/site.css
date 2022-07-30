@@ -1,0 +1,30 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+.text{
+  text-align: center;
+}
+.blue{
+  color: blue;
+}
+
+.borderNum{
+  border: solid black 1px;
+  width: 200px;
+}

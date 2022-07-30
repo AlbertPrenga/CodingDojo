@@ -1,0 +1,15 @@
+﻿@model int[]
+
+<link rel="stylesheet" href="~/css/site.css">
+
+<div class="text-center">
+    
+    <h1 class="text blue">Here are some numbers!</h1>
+    <div class="borderNum">
+    @{foreach (var item in Model)
+    {
+        <p class="text">@item</p>        
+    }
+    }
+    </div>
+</div>
