@@ -1,0 +1,27 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+#button{
+  text-decoration : none;
+  color: black;
+  border: .5px solid black;
+  padding: 5px 10px;
+  background-color: aliceblue;
+  border-radius: 5px;
+}

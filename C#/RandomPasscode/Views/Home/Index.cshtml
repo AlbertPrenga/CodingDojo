@@ -1,0 +1,17 @@
+﻿@using Microsoft.AspNetCore.Http
+
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+   <h2>Random pascode # <span id="span1">1</span></h2>
+
+    <p id="id1" >
+@Context.Session.GetString("Passcode")
+</p>
+
+<button id="button" onclick="increase(span1,id1)"> Generate </button>
+</div>
+
