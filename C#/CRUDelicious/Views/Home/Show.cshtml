@@ -1,0 +1,12 @@
+@model Dish
+
+<h3 class="text-center">@Model.Name by shef @Model.Chef</h3> 
+
+<p class="text-center">@Model.Description</p>
+<p>Calories: @Model.Calories</p>
+<p>Tastines: @Model.Tastines</p>
+<div class="row">
+    <button type="submit" class="col-sm-2 btn btn-danger"><a href="/Delete/@Model.DishId/">Delete</a></button>
+    <div class="col-sm-6"></div>
+    <button type="submit" class="col-sm-2 btn btn-success" ><a href="/Edit/@Model.DishId">Edit</a></button>
+</div>

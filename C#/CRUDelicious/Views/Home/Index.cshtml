@@ -1,0 +1,41 @@
+﻿@model Dish
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h2 class="display-4">Welcome to CRUDelicious</h2>
+<div>
+<div class="row">
+<p class="col-sm-3"><u>Check out some recent dishes!</u></p>
+<div class="col-sm-5"></div>
+<p class="col-sm-2"><a href="/Add">Add a dish</a></p>
+</div>
+<div class="row">
+
+      <div class="col-sm-8">
+        <table class="table table-striped table-hover">
+            <thead>
+            <tr></tr>
+            </thead>
+            <tbody >
+                @foreach (var item in ViewBag.marrNgaDb)
+                {
+                    <tr>
+                        <td><a href="/Show/@item.DishId"> @item.Name </a></td>
+                        <td> by @item.Chef</td>
+                    
+                        
+                        @* <td>
+                            
+                            <a href="/Edit/@item.ProductId">Edit</a> | <a href="/Delete/@item.ProductId">Delete</a>
+                        </td> *@
+                    </tr>
+                    
+                }
+
+            </tbody>
+        </table>
+        </div>
+        <div class="col-sm-4"></div>
+        </div>
