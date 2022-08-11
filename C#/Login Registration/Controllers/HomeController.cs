@@ -102,8 +102,9 @@ public class HomeController : Controller
             } 
             
             HttpContext.Session.SetInt32("UserId", PerdoruesiInDb.UserId);
+            int? session = HttpContext.Session.GetInt32("UserId");
            
-            return RedirectToAction("Success");
+            return RedirectToAction("Success",new{id=session});
         }
           
            
@@ -111,17 +112,17 @@ public class HomeController : Controller
     return View("Login");
     }
 
-    [HttpGet("Success")]
-    public IActionResult Success()
+    [HttpGet("Success/{id}")]
+    public IActionResult Success(int id)
     {   
         //nese session i UserId ekziston me ridrjeto tek Login. dmth logohu prap.
      HttpContext.Session.GetInt32("UserId");
-     if (HttpContext.Session.GetInt32("UserId") == null)
+     if (HttpContext.Session.GetInt32("UserId") == id)
      {
-        RedirectToAction("login");
+        return View();
      }
         //perndryshe nese ekziton kjo adrese emaili si session
-        return View();
+       return RedirectToAction ("login");
     }
     [HttpGet("logout")]
     public IActionResult Logout()
