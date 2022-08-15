@@ -1,0 +1,65 @@
+﻿
+@{
+    ViewData["Title"] = "Home Page";
+}
+<div class="row">
+<div class="text-center">
+    <h1 class="display-4">Welcome @ViewBag.Iloguari.FirstName</h1>
+    
+</div>
+<table class="col-sm-6  table align-middle mb-0 bg-white">
+  <thead class="bg-light">
+    <tr>
+      <th>Name</th>
+      <th>Enthusiats</th>
+    </tr>
+  </thead>
+  <tbody>    
+       @foreach (var item in @ViewBag.Hobbies)
+                {
+                   <tr>
+                    <td>
+                   <a href="Show/@item.HobbieId">@item.Name</a> 
+                    </td>
+                    <td>
+                    @item.Enthusiasts.Count
+                    </td>
+                    <td>
+                        </tr>
+                }
+
+
+                        @* @if (item.Creator.UserId == @ViewBag.iLoguari.UserId)
+                        {
+                            <a href="/Movie/Delete/@item.MovieId">Delete |</a> 
+                         } 
+                        @{
+                            var temp = 0;
+                        }
+                        @foreach (var a in item.Fansat)
+                        {
+                            if(a.UserId == @ViewBag.Iloguari.UserId)
+                            {
+                                temp = @a.FansId;
+                            }
+                        }
+                        @if (temp == 0)
+                        {
+                            <a href="/Movie/Fans/@item.MovieId">Behu Fan</a>
+                        }
+                        else
+                        {
+                            <a href="/MosPelqe/@temp">Mos e pelqe</a>    
+                        }
+                 
+
+                        <a href="/Edit/@item.HobbieId">Edit </a>*@
+
+    </tbody>   
+
+<div class="col-sm-6"></div>
+<a  href="/Hobbie/Add">Create a Hobbie</a>
+<br>
+<a href="/Logout">Loguot</a>
+</div>
+</div>

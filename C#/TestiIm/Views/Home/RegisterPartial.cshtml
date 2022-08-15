@@ -1,0 +1,45 @@
+@model User
+
+<div class="row">
+<p class="text-center h1 fw-bold mb-5 mx-1 mx-md-4 mt-4">Register</p>
+
+<div class="row">
+    <div class="col-sm-6">
+        <form action="/Register/"  method="post">
+    <!-- First Name input -->
+  <div class="form-outline mb-4">
+    <span asp-validation-for="FirstName"></span>
+    <input asp-for="FirstName" class="form-control" />
+    <label class="form-label" asp-for="FirstName"></label>
+  </div>
+   <!-- Last Name input -->
+  <div class="form-outline mb-4">
+    <span asp-validation-for="LastName"></span>
+    <input asp-for="LastName" class="form-control" />
+    <label class="form-label" asp-for="LastName"></label>
+  </div>
+
+  <!-- UserName input -->
+   <div class="form-outline mb-4">
+    <span asp-validation-for="UserName"></span>
+    <input asp-for="UserName" class="form-control" />
+    <label class="form-label" asp-for="UserName"></label>
+  </div>
+  <!-- Password input -->
+    <div class="form-outline mb-4">
+    <span asp-validation-for="Password"></span>
+    <input asp-for="Password" class="form-control" />
+    <label class="form-label" asp-for="Password"></label>
+  </div>
+    <!-- Confirm Password input -->
+    <div class="form-outline mb-4">
+    <span asp-validation-for="Confirm"></span>
+    <input asp-for="Confirm" class="form-control" />
+    <label class="form-label" asp-for="Confirm"></label>
+  </div>
+  <!-- Submit button -->
+  <button type="submit" class="btn btn-primary btn-block mb-4">Register</button>
+</form>
+    </div>
+</div>
+</div>

@@ -1,0 +1,60 @@
+@model Hobbie
+
+
+<div class="row">
+    <div class="col-sm-6">
+    <h3>@Model.Name</h3>
+    <p>Description: @Model.Description</p>
+    <br>
+    <p>@Model.Name Enthusiasts</p>
+    </div>
+
+
+    <div class="col-sm-6">
+    <partial name="AddFan"></partial>
+    </div>
+
+   
+
+@* <p class="text-left">@Model.Description</p> 
+<table>
+ <thead>
+        <th>Name</th>
+        <th>Proficency</th>
+    </thead>
+    <tbody>
+        <tr>
+       @foreach (var item in @ViewBag.marrNgaDb)
+                {
+                   
+                    <td>
+                    @item.Name
+                    </td>
+                    <td>
+                    @item.Enthusiasts.Type
+                    </td>
+                    <tr/>
+                }
+        </tr>
+    </tbody>
+</table> 
+    *@
+    
+
+    @* <div class="col-sm-6"></div>
+     <a href="/Edit/@Model.HobbieId">Edit</a><br>
+     <h5>Become an Enthusiast!</h5><br>
+     <a href="/Hobbie/BeEnthusiast/@ViewBag.id">Be Enthusiast</a> *@
+     @* <form action="/Hobbie/BeEnthusiast/@item.HobbieId" method= "post">
+<select name="type" >
+    <option value="Novice">Novice</option>
+    <option value="Intermediate">Intermediate</option>
+    <option value="Expert">Expert</option>
+
+</select>
+<button type="submit">Add to Hobbies</button>
+</form>  *@
+
+
+
+
