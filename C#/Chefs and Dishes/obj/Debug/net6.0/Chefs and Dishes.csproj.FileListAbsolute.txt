@@ -1,0 +1,35 @@
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Chefs and Dishes\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Chefs and Dishes\bin\Debug\net6.0\appsettings.json
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Chefs and Dishes\bin\Debug\net6.0\Chefs and Dishes.staticwebassets.runtime.json
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Chefs and Dishes\bin\Debug\net6.0\Chefs and Dishes.exe
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Chefs and Dishes\bin\Debug\net6.0\Chefs and Dishes.deps.json
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Chefs and Dishes\bin\Debug\net6.0\Chefs and Dishes.runtimeconfig.json
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Chefs and Dishes\bin\Debug\net6.0\Chefs and Dishes.dll
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Chefs and Dishes\bin\Debug\net6.0\ref\Chefs and Dishes.dll
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Chefs and Dishes\bin\Debug\net6.0\Chefs and Dishes.pdb
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Chefs and Dishes\bin\Debug\net6.0\Humanizer.dll
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Chefs and Dishes\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Chefs and Dishes\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Chefs and Dishes\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Chefs and Dishes\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Chefs and Dishes\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Chefs and Dishes\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Chefs and Dishes\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Chefs and Dishes\obj\Debug\net6.0\Chefs and Dishes.csproj.AssemblyReference.cache
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Chefs and Dishes\obj\Debug\net6.0\Chefs and Dishes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Chefs and Dishes\obj\Debug\net6.0\Chefs and Dishes.AssemblyInfoInputs.cache
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Chefs and Dishes\obj\Debug\net6.0\Chefs and Dishes.AssemblyInfo.cs
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Chefs and Dishes\obj\Debug\net6.0\Chefs and Dishes.csproj.CoreCompileInputs.cache
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Chefs and Dishes\obj\Debug\net6.0\Chefs and Dishes.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Chefs and Dishes\obj\Debug\net6.0\Chefs and Dishes.RazorAssemblyInfo.cache
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Chefs and Dishes\obj\Debug\net6.0\Chefs and Dishes.RazorAssemblyInfo.cs
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Chefs and Dishes\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Chefs and Dishes\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Chefs and Dishes\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Chefs and Dishes\obj\Debug\net6.0\scopedcss\bundle\Chefs and Dishes.styles.css
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Chefs and Dishes\obj\Debug\net6.0\scopedcss\projectbundle\Chefs and Dishes.bundle.scp.css
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Chefs and Dishes\obj\Debug\net6.0\Chefs and Dishes.csproj.CopyComplete
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Chefs and Dishes\obj\Debug\net6.0\Chefs and Dishes.dll
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Chefs and Dishes\obj\Debug\net6.0\ref\Chefs and Dishes.dll
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Chefs and Dishes\obj\Debug\net6.0\Chefs and Dishes.pdb
+C:\Users\prengaa\OneDrive - Titan Cement Company SA\Documents\CodingDojo\C#\Chefs and Dishes\obj\Debug\net6.0\Chefs and Dishes.genruntimeconfig.cache

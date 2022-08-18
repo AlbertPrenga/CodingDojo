@@ -1,0 +1,26 @@
+<h1><a href="Chef">Chefs</a>| Dishes</h1>
+<h3>Yoom, Take a look at our tasty Dishes</h3>
+
+@model List<Dish>
+
+  <table class="table table-striped">
+    <thead>
+      <tr>
+        <th scope="col">Name</th>
+        <th scope="col">Chef</th>
+        <th scope="col">Tastines</th>
+        <th scope="col">Calories</th>
+      </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in ViewBag.AllDishes)
+        {
+            <tr>
+                <td>@item.Name</td>
+                <td>@item.Cook.FirstName</td>
+                <td>@item.Tastiness</td>
+                <td>@item.Calories</td>
+            </tr>
+        }
+    </tbody>
+    <a href="/AddDish">Add A Dish</a>
